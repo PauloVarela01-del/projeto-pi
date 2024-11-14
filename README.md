@@ -1,2 +1,2 @@
 # projeto-pi
-Repositorio para o nosso projeto
+Repositório para o nosso projeto
